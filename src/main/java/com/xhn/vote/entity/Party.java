@@ -14,4 +14,5 @@ public class Party {
     private String partyName;
     @Field(type = Text)
     private String description;
+    private String leader;
 }
